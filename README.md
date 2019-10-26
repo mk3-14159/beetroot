@@ -1,4 +1,4 @@
-# beetroot.vim
+# Beetroot :)
 
 Beetroot.vim is inspired by my favourite vegetable, Beetroots!
 
