@@ -2,7 +2,7 @@
 
 Beetroot.vim is inspired by my favourite vegetable, Beetroots!
 Beetroot.vim supports the true colors for GVIM, NEOVIM and VIM
-![beetroot meme]()
+![beetroot meme](https://github.com/mk3-14159/beetroot.vim/blob/master/assets/beet.png)
 
 #### Support
 
