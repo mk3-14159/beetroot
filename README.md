@@ -9,7 +9,7 @@ Beetroot.vim supports the true colors for GVIM, NEOVIM and VIM
 
 #### Support
 
-It supports the following plugins:
+Beetroot supports the following plugins:
 [airline](https://github.com/vim-airline/vim-airline),
 [lightline](https://github.com/vim-airline/lightline),
 [fzf](https://github.com/junegunn/fzf),
@@ -39,25 +39,25 @@ let g:beetroot = { 'colorscheme': 'beetroot' }
 #### Pathogen
 
 ```
-$ git clone https://github.com/albertorestifo/github.vim.git ~/.vim/bundle/github.vim
+$ git clone https://github.com/mk3-14159/beetroot.git ~/.vim/bundle/beetroot
 ```
 
 #### NeoBundle
 
 ```
-NeoBundle 'mk3-14159/beetroot.vim'
+NeoBundle 'mk3-14159/beetroot'
 ```
 
 #### Vundle
 
 ```
-Plugin 'mk3-14159/beetroot.vim'
+Plugin 'mk3-14159/beetroot'
 ```
 
 #### Plug
 
 ```
-Plug 'mk3-14159/beetroot.vim'
+Plug 'mk3-14159/beetroot'
 ```
 Beetroot can highlight following scripts and languages:
 
