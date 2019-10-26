@@ -1,6 +1,7 @@
 # beetroot.vim
 
 Beetroot.vim is inspired by my favourite vegetable, Beetroots!
+
 Beetroot.vim supports the true colors for GVIM, NEOVIM and VIM
 
 
