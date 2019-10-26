@@ -28,11 +28,9 @@ The scaffolding of the theme can highlight following scripts and languages:
 
 ![Go preview]()
 
-If a language you use does not render correctly or is not accurate please open
-an issue, providing a Gist or file in a repo I can use as reference for
-adjusting the colors.
 
-Contributions are welcome!
+
+All Contributions are welcome!
 
 ## Installation
 
@@ -47,19 +45,19 @@ $ git clone https://github.com/albertorestifo/github.vim.git ~/.vim/bundle/githu
 #### NeoBundle
 
 ```
-NeoBundle 'albertorestifo/github.vim'
+NeoBundle 'mk3-14159/beetroot.vim'
 ```
 
 #### Vundle
 
 ```
-Plugin 'albertorestifo/github.vim'
+Plugin 'mk3-14159/beetroot.vim'
 ```
 
 #### Plug
 
 ```
-Plug 'albertorestifo/github.vim'
+Plug 'mk3-14159/beetroot.vim'
 ```
 
 #### Manual
@@ -71,5 +69,5 @@ Copy all the filed in your `~/.vim` or `~/.config/nvim` directory
 
 
 ```vim
-colorscheme github
+colorscheme beetroot
 ```
