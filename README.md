@@ -3,6 +3,18 @@
 Beetroot.vim is inspired by my favourite vegetable, Beetroots!
 Beetroot.vim supports the true colors for GVIM, NEOVIM and VIM
 
+#### Support
+
+It supports the following plugins:
+[airline](https://github.com/vim-airline/vim-airline),
+[lightline](https://github.com/vim-airline/lightline),
+[fzf](https://github.com/junegunn/fzf),
+[GitGutter](https://github.com/airblade/vim-gitgutter),
+[NERDTree](https://github.com/scrooloose/nerdtree),
+[Startify](https://github.com/mhinz/vim-startify),
+[sneak](https://github.com/justinmk/vim-sneak),
+and `:terminal`.
+
 ## Installation
 All major plugin managers are supported:
 Use your favourite Plugin!
@@ -43,9 +55,6 @@ Plugin 'mk3-14159/beetroot.vim'
 ```
 Plug 'mk3-14159/beetroot.vim'
 ```
-
-#### Support
-
 The scaffolding of the theme can highlight following scripts and languages:
 
 1) C
