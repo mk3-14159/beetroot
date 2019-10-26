@@ -59,7 +59,7 @@ Plugin 'mk3-14159/beetroot.vim'
 ```
 Plug 'mk3-14159/beetroot.vim'
 ```
-The scaffolding of the theme can highlight following scripts and languages:
+Beetroot can highlight following scripts and languages:
 
 1) C
 2) Java
