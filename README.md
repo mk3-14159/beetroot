@@ -3,6 +3,47 @@
 Beetroot.vim is inspired by my favourite vegetable, Beetroots!
 Beetroot.vim supports the true colors for GVIM, NEOVIM and VIM
 
+## Installation
+All major plugin managers are supported:
+Use your favourite Plugin!
+set your colorscheme to 'beetroot':
+
+```viml
+" in your .vimrc or init.vim
+colorscheme beetroot
+```
+
+Then set your colorscheme to beetroot!
+
+```viml
+" if your use airline / lightline
+let g:airline_theme = "beetroot"
+let g:beetroot = { 'colorscheme': 'beetroot' }
+```
+#### Pathogen
+
+```
+$ git clone https://github.com/albertorestifo/github.vim.git ~/.vim/bundle/github.vim
+```
+
+#### NeoBundle
+
+```
+NeoBundle 'mk3-14159/beetroot.vim'
+```
+
+#### Vundle
+
+```
+Plugin 'mk3-14159/beetroot.vim'
+```
+
+#### Plug
+
+```
+Plug 'mk3-14159/beetroot.vim'
+```
+
 #### Support
 
 The scaffolding of the theme can highlight following scripts and languages:
@@ -44,41 +85,3 @@ The scaffolding of the theme can highlight following scripts and languages:
 
 All Contributions are welcome!
 
-## Installation
-All major plugin managers are supported:
-
-#### Pathogen
-
-```
-$ git clone https://github.com/albertorestifo/github.vim.git ~/.vim/bundle/github.vim
-```
-
-#### NeoBundle
-
-```
-NeoBundle 'mk3-14159/beetroot.vim'
-```
-
-#### Vundle
-
-```
-Plugin 'mk3-14159/beetroot.vim'
-```
-
-#### Plug
-
-```
-Plug 'mk3-14159/beetroot.vim'
-```
-
-#### Manual
-
-Copy all the filed in your `~/.vim` or `~/.config/nvim` directory
-
-
-## Configuration
-
-
-```vim
-colorscheme beetroot
-```
