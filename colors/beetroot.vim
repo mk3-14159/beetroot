@@ -1,6 +1,6 @@
 " Vim theme - beetroot
 " Designed by Meng Keat, Chong (2019-10-25)
-" @Vivify
+" @Vi
 " Github: mk3-14159
 " License: MIT
 " Copyright <2019> <Meng Keat, Chong>
