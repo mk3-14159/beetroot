@@ -71,7 +71,7 @@ hi Question guifg=#e8b87e guibg=#202020 guisp=#202020 gui=bold ctermfg=222 cterm
 hi WarningMsg guifg=#ee2c2c guibg=#202020 guisp=#202020 gui=bold ctermfg=13 ctermbg=234 cterm=bold
 hi VisualNOS guifg=#a0a0a0 guibg=#202020 guisp=#202020 gui=bold,underline ctermfg=247 ctermbg=234 cterm=bold,underline
 
-" --- Function Callbacks ---
+" --- Callbacks ---
 hi DiffDelete guifg=#d0d0d0 guibg=#8b0000 guisp=#8b0000 gui=NONE ctermfg=252 ctermbg=88 cterm=NONE
 hi ModeMsg guifg=#d0d0d0 guibg=#202020 guisp=#202020 gui=bold ctermfg=252 ctermbg=234 cterm=bold
 hi CursorColumn guifg=#ffffff guibg=#404040 guisp=#404040 gui=NONE ctermfg=15 ctermbg=238 cterm=NONE
@@ -82,7 +82,7 @@ hi PreProc guifg=#f58bcc guibg=#202020 guisp=#202020 gui=NONE ctermfg=212 ctermb
 hi Visual guifg=#000000 guibg=#606060 guisp=#606060 gui=NONE ctermfg=NONE ctermbg=59 cterm=NONE
 hi MoreMsg guifg=#b6b6b6 guibg=#202020 guisp=#202020 gui=bold ctermfg=249 ctermbg=234 cterm=bold
 
-" --- Function Callbacks 2 ---
+" --- lCallbacks 2 ---
 hi VertSplit guifg=#d0d0d0 guibg=#404040 guisp=#404040 gui=NONE ctermfg=252 ctermbg=238 cterm=NONE
 hi Exception guifg=#f09479 guibg=#202020 guisp=#202020 gui=bold ctermfg=216 ctermbg=234 cterm=bold
 hi Keyword guifg=#f09479 guibg=#202020 guisp=#202020 gui=bold ctermfg=216 ctermbg=234 cterm=bold
